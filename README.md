@@ -1,16 +1,45 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Agung%20Reza&fontSize=40&fontColor=ffffff" />
+</p>
 
-<!--
-**AgungReza/AgungReza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Web Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building clean, scalable, and production-ready web applications
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter4-orange?logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-blue?logo=react"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06b6d4?logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-black?logo=mysql"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+- **EzBook** — Booking & payment timeline system  
+- **DigitalFreshMart** — E-commerce system  
+- **WebComproGSI** — Company profile website  
+- **Web Freelance App** — Frontend app for freelance platform  
+- **APK Pengadaan Barang** — Procurement management system  
+- **Klasifikasi Penyakit Ginjal Kronik** — Machine learning classification system
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AgungReza&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgungReza&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contact
+- LinkedIn: (isi nanti)
+- Portfolio: (isi nanti)
+- Email: (opsional)
