@@ -38,8 +38,3 @@
 </p>
 
 ---
-
-### 📫 Contact
-- LinkedIn: (isi nanti)
-- Portfolio: (isi nanti)
-- Email: (opsional)
